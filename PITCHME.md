@@ -19,7 +19,7 @@
 
 내 성격은 과묵,소심,무뚝뚝
 
-/ 내사진 /
+![Image](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/17554261_1131974856929209_8761835195175211739_n.jpg?_nc_cat=110&_nc_ht=scontent-icn1-1.xx&oh=085eb92ff50ccf0aac1e757bded896b4&oe=5CD103DD) 
 
 12월 31일에 집에서 홍게 먹을거임
 
