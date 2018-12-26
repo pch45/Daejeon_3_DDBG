@@ -7,7 +7,7 @@
 내 성격은 매우 활발, 쓸데없는 말이 많음
 
 사진?
-![Image](https://shopping-phinf.pstatic.net/main_1121475/11214758206.20170319183952.jpg?type=f300)
+![Image](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiuosy71bzfAhVONbwKHRXmDg4QjRx6BAgBEAU&url=http%3A%2F%2Fwww.mycoffeestory.co.kr%2Fxe%2Findex.php%3Fmid%3Dmenu%26page%3D1%26listStyle%3Dviewer%26document_srl%3D429%26order_type%3Ddesc&psig=AOvVaw1p74ePtHsGKGjCjlSO0LTC&ust=1545885201210289)
 
 12월 31일에... 집에서 카트할거임
 
