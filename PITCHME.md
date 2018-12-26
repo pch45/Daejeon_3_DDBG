@@ -1,5 +1,4 @@
-﻿# 박 창 한
-내 이름은 박창한
+﻿# 박 창 름은 박창한
 
 내 별명은 박창
 
@@ -62,10 +61,14 @@ ps://shopping-phinf.pstatic.net/main_1121475/11214758206.20170319183952.jpg?type
 ---
 # 양 동 구
 
-내이름은 양동구
+내 이름은 양동구
 
-별명은 양동이
+별명은 야동구편, 양동이, 양파링, 양북구, ...
 
-ㅎㅇㅎㅇ
+내 성격은 쾌활, 이타적
+
+<img src="https://www.google.com/search?biw=1920&bih=969&tbm=isch&sa=1&ei=8g4jXJX2EMyR8gWtuZ64Cw&q=%EC%B9%B4%EC%B9%B4%EB%A1%9C%ED%8A%B8&oq=%EC%B9%B4%EC%B9%B4%EB%A1%9C%ED%8A%B8&gs_l=img.3..0l10.19832.21122..21187...0.0..1.130.958.1j8......1....1..gws-wiz-img.....0.lzYWBkjwa94#imgrc=Va9vsBEO_UbXVM:" width="200px" height="200px">
+
+12월 31일은 친구랑 술마시고 롤?
 
 
