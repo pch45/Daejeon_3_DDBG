@@ -12,7 +12,7 @@
 
 ---
 # 서효정
-<br><img 
+<img 
 src="https://img1.southernliving.timeinc.net/sites/default/files/styles/medium_2x/public/image/2017/10/main/arkansas_black_apple_pie_with_caramel_sauce_2540501_pieso_675.jpg?itok=iUlqw3oU" 
 width="200px" height="200px"><br>
 이름	서효정
