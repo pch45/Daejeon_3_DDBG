@@ -1,4 +1,4 @@
-# 박 창 한
+﻿# 박 창 한
 내 이름은 박창한
 
 내 별명은 박창
@@ -31,7 +31,8 @@
 
 내 성격은 정갈, 정리정돈
 
-사진은 나중에
+사진은
+<img src = "https://www.bing.com/images/search?view=detailV2&ccid=FoOTv43L&id=92BEC57EC307FCD43AB2813794CF3D089E282C9B&thid=OIP.FoOTv43LxItOx1Sh1vugmQHaHK&mediaurl=http%3A%2F%2Fwww.frenchscout.com%2Fgrapes%2Fchardonnay.jpg&exph=349&expw=361&q=chardonnay+grape&simid=608045656811833393&selectedindex=11&ajaxhist=0&vt=0" width="200px" height="200px">
 
 12월 31일에 가족여행?
 
