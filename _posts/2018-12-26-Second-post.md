@@ -1,5 +1,5 @@
 ---
-title: SSAFY Start Camp 챗봇 퀘스트
+title: 2주차 SSAFY Start Camp 챗봇 퀘스트
 ---
 대전_3_뚝배기, https://github.com/pch45/MiniGameHeaven
 
