@@ -1,7 +1,9 @@
 ---
-title: SSAFY Start Camp 챗봇 퀘스트
+title: 2주차 SSAFY Start Camp 챗봇 퀘스트
 ---
 대전_3_뚝배기, https://github.com/pch45/MiniGameHeaven
+
+
 
 # I. 스펙(Specification)
 ## 구현된 어플리케이션의 주요 기능
@@ -32,11 +34,17 @@ title: SSAFY Start Camp 챗봇 퀘스트
 - 유저간 컨텍스트를 분리하여 모든 유저가 각자 게임을 할 수 있도록 한다.
 
 
+<br>
+
+
 # II. 회고(Retrospective)
 ## 어플리케이션 구현 과정에서의 어려움과 문제점
 - 서버가 꺼져있을 때, request가 와 있을 경우 쌓여있던 response가 여러번 나와 어려움이 있었다.
 - 사용자가 사용할 명령어를 정하는 것에 어려움이 있었다.
 - 여러사람의 request를 각각 따로 처리하게 하는 것에 어려움이 있었다.
+
+
+<br>
 
 # III. 보완 계획(Feedback)
 ## 현재 미완성이지만 추가로 구현할 기능 및 기존 문제점 보완 계획
