@@ -51,11 +51,9 @@
 My Name is 유 현 모
 
 내 별 명 은 군대에서는 자가비
-하고 웃음이 많음
+성격은 신중하고 웃음이 많음
 
-ps://shopping-phinf.pstatic.net/main_1121475/11214758206.20170319183952.jpg?type=f300)
-
-  최대한 쉬는 것
+<img src ="https://shopping-phinf.pstatic.net/main_1121475/11214758206.20170319183952.jpg?type=f300">
 
 12월 31일에 할일은 최대한 쉬는 것
 
