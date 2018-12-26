@@ -1,5 +1,9 @@
 ﻿# 박 창 한
-참기름은 박창한
+<<<<<<< HEAD
+
+=======
+내 이름은 박창한
+>>>>>>> fd50c553664930e0ad8c98b4e8249ad373851966
 
 내 별명은 박창
 
@@ -32,7 +36,7 @@
 
 내 성격은 정갈, 정리정돈
 
-사진은
+사진은<br>
 <img src = "https://www.fikardoswines.com.cy/wp-content/uploads/2017/01/Cyprus_wine_harvest_2016_chardonnay-1.jpg" width="200px" height="200px">
 
 12월 31일에 가족여행?
@@ -51,21 +55,23 @@
 My Name is 유 현 모
 
 내 별 명 은 군대에서는 자가비
-하고 웃음이 많음
+성격은 신중하고 웃음이 많음
 
-ps://shopping-phinf.pstatic.net/main_1121475/11214758206.20170319183952.jpg?type=f300)
-
-  최대한 쉬는 것
+<img src ="https://shopping-phinf.pstatic.net/main_1121475/11214758206.20170319183952.jpg?type=f300">
 
 12월 31일에 할일은 최대한 쉬는 것
 
 ---
 # 양 동 구
 
-내이름은 양동구
+내 이름은 양동구
 
-별명은 양동이
+별명은 야동구편, 양동이, 양파링, 양북구, ...
 
-ㅎㅇㅎㅇ
+내 성격은 쾌활, 이타적
+
+<img src="https://www.google.com/search?biw=1920&bih=969&tbm=isch&sa=1&ei=8g4jXJX2EMyR8gWtuZ64Cw&q=%EC%B9%B4%EC%B9%B4%EB%A1%9C%ED%8A%B8&oq=%EC%B9%B4%EC%B9%B4%EB%A1%9C%ED%8A%B8&gs_l=img.3..0l10.19832.21122..21187...0.0..1.130.958.1j8......1....1..gws-wiz-img.....0.lzYWBkjwa94#imgrc=Va9vsBEO_UbXVM:" width="200px" height="200px">
+
+12월 31일은 친구랑 술마시고 롤?
 
 
