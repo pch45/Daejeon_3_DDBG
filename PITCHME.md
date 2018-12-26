@@ -31,7 +31,7 @@ My Name is 유 현 모
 
 내 성 격 은 신 중하고 웃음이 많음
 
-사진 ![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)
+사진 ![Image](https://shopping-phinf.pstatic.net/main_1121475/11214758206.20170319183952.jpg?type=f300)
 
 12월 31일에 할일은 최대한 쉬는 것
 ---
