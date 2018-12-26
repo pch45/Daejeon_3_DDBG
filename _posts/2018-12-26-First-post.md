@@ -2,9 +2,7 @@
 title: 자기 주도 학습
 ---
 
-# 주제 1
-
-[1주차 Reflection] Design Thinking 방법론
+# 1.1주차 Reflection Design Thinking 방법론
 
 |단계|정의|활용 Tool
 |------|----------|-----|
@@ -16,4 +14,4 @@ title: 자기 주도 학습
 
 # 주제 2
 
-SSAFY Start Camp 챗봇 퀘스트
+[1주차] 로봇경진대회
