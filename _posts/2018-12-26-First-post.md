@@ -6,10 +6,10 @@ title: 자기 주도 학습
 
 [1주차 Reflection] Design Thinking 방법론
 
-|Name|Speciality|
-|------|----------|
-|John|Java|
-|Peter|Python|
+|단계|정의|활용 Tool
+|------|----------|-----|
+|공감|ㅇㅇㅇ을 위해 ㅇㅇㅇ를 하는 단계|1.공감지도|
+|test|test|test|
 
 # 주제 2
 
