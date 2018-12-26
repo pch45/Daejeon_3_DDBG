@@ -14,14 +14,15 @@
 이름	서효정
 별명	효야
 성격	밝음
+<img src="https://img1.southernliving.timeinc.net/sites/default/files/styles/medium_2x/public/image/2017/10/main/arkansas_black_apple_pie_with_caramel_sauce_2540501_pieso_675.jpg?itok=iUlqw3oU">
 
-연말계획	친구들이랑 연말파티할거임
-	떡국도 먹고
-	타코야끼도 먹고
-	저슷댄스도하고
-	슈퍼버니하고
-	배그할거임
-	비켄디 딱기다려라
+#####연말계획
+연말파티
+- 떡국
+- 타코야끼
+- 저슷댄스
+- 슈퍼버니
+- 배그 비켄디정복
 
 ---
 # 차 승 욱
