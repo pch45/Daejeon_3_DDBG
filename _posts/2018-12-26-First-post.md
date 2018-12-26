@@ -20,3 +20,4 @@ title: 1주차 Reflection
 |슈팅|덩크슛으로 골대를 부수는 파괴력을 과시|
 |씨름|무조건 밀어붙이는|
 |릴레이|노코멘트|
+<img src="https://drive.google.com/file/d/1XkWOxXhowL5USc1MJvkJr0XVTVfuK2YY/view" width = "300px" length = "300px">
