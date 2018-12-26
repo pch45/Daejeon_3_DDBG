@@ -69,7 +69,7 @@ My Name is 유 현 모
 
 내 성격은 쾌활, 이타적
 
-<img src="http://blogthumb2.naver.net/20150413_85/eodns1128_1428930903645wgShS_PNG/20150413_221155.png?type=w2" width="200px" height="200px">
+<img src="http://blogthumb2.naver.net/20150413_85/eodns1128_1428930903645wgShS_PNG/20150413_221155.png?type=w2" width="150px" height="150px">
 
 12월 31일은 친구랑 술마시고 롤?
 
