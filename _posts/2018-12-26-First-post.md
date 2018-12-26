@@ -6,6 +6,11 @@ title: 자기 주도 학습
 
 [1주차 Reflection] Design Thinking 방법론
 
+|Name|Speciality|
+|------|----------|
+|John|Java|
+|Peter|Python|
+
 # 주제 2
 
 SSAFY Start Camp 챗봇 퀘스트
