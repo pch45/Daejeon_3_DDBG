@@ -14,5 +14,5 @@ title: SSAFY Start Camp 챗봇 퀘스트
 
 # II. 회고(Retrospective)
 ## 어플리케이션 구현 과정에서의 어려움과 문제점
-### *서버가 꺼져있을 때, request가 와 있을 경우 쌓여있던 response가 여러번 나와 어려움이 있었다.
-### *
+### -서버가 꺼져있을 때, request가 와 있을 경우 쌓여있던 response가 여러번 나와 어려움이 있었다.
+### -
