@@ -1,4 +1,4 @@
----
+﻿---
 title: 1주차 Reflection
 ---
 
@@ -20,4 +20,4 @@ title: 1주차 Reflection
 |슈팅|덩크슛으로 골대를 부수는 파괴력을 과시|
 |씨름|무조건 밀어붙이는|
 |릴레이|노코멘트|
-<img src="https://user-images.githubusercontent.com/13827411/50434431-7a7b1180-0920-11e9-967d-4442969fcdf6.JPG" width = "300px" height = "300px">
+![풍풍이](https://user-images.githubusercontent.com/13827411/50434431-7a7b1180-0920-11e9-967d-4442969fcdf6.JPG)
