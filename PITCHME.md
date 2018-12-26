@@ -20,3 +20,5 @@
 	슈퍼버니하고
 	배그할거임
 	비켄디 딱기다려라
+
+<img src="https://djf7qc4xvps5h.cloudfront.net/game/cover/resize/just-dance-2018.jpg?ver=2018.03.13.09.10.23" width="300px" height="300px">
