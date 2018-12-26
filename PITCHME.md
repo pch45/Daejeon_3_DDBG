@@ -6,7 +6,7 @@
 
 내 성격은 매우 활발, 쓸데없는 말이 많음
 
-![Image](http://www.mycoffeestory.co.kr/xe/files/attach/images/209/429/d821ed326396ae742f3884bdb2ed8d38.jpg)
+<img src = "http://www.mycoffeestory.co.kr/xe/files/attach/images/209/429/d821ed326396ae742f3884bdb2ed8d38.jpg" width="200px" height="200px">
 
 12월 31일에... 집에서 카트할거임
 
