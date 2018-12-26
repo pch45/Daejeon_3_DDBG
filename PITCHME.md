@@ -38,9 +38,9 @@
 ---
 # 남 궁 명
 내 이름은 남궁명
-<span style="font-size:10px;">내 별명은 남궁띵\n</span>
-<span style="font-size:10px">내 성격은 과묵,소심,무뚝뚝\n</span>
-<span style="font-size:10px">12월 31일에 홍게 먹을거임!\n</span>
+<span style="font-size:20px; font-weight:bold">내 별명은 남궁띵</span><br>
+<span style="font-size:20px; font-weight:bold">내 성격은 과묵,소심,무뚝뚝</span><br>
+<span style="font-size:20px; font-weight:bold">12월 31일에 홍게 먹을거임!</span><br>
 <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/17554261_1131974856929209_8761835195175211739_n.jpg?_nc_cat=110&_nc_ht=scontent-icn1-1.xx&oh=085eb92ff50ccf0aac1e757bded896b4&oe=5CD103DD" width="200px" height="200px">
 
 ---
